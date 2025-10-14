@@ -1,0 +1,4 @@
+Este é o primeiro projeto desenvolvido No Azure ML Studio por Ronnie Meneses.
+Os dados foram obtidos no Kaggle: https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset/data
+
+Aracaju, 13 de outubro de 2025.
